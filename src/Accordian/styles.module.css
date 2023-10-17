@@ -1,0 +1,14 @@
+.card_div{
+    background-color: lightblue;
+    width: 40%;
+    padding: 20px;
+    margin: 20px 0px 0px 20px;
+    border-radius: 8px;
+}
+.answer_wrapper {
+    height: 0;
+    overflow: hidden !important;
+  }
+  .answer_wrapper.open {
+    height: auto;
+  }
